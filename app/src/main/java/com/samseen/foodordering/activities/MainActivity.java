@@ -1,8 +1,10 @@
-package com.samseen.foodordering;
+package com.samseen.foodordering.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.samseen.foodordering.R;
 
 public class MainActivity extends AppCompatActivity {
 
